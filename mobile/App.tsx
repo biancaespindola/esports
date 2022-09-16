@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
 	return (
 		<View style={styles.container}>
-			<Text>o primeiro texto de um grande aprecativo</Text>
+			<Text>o primeiro texto de um grande apricativo</Text>
 			<StatusBar style="auto" />
 		</View>
 	);
